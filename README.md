@@ -25,6 +25,6 @@ Luego abre la dirección local que indique el servidor.
 
 ## Herramientas de IA
 
-La aplicación se trabajó con un asistente de IA basado en **Copilot SDK en VS Code**. **Claude, Gemini y Antigravity** también se solicitaron como herramientas a declarar, pero no se utilizaron en esta sesión. Incluye esas herramientas en la entrega solo si también las usaste por tu cuenta; registra sus prompts y resultados reales en la bitácora.
+Según lo declarado por el autor, las herramientas utilizadas para el proyecto fueron el asistente basado en **Copilot SDK en VS Code**, **Claude** y **Antigravity**. El autor indicó que Claude propuso una solución sencilla sin proporcionar la API y que Antigravity proporcionó una API, pero no modificó el diseño. **Gemini no se declara**, porque no se confirmó su uso.
 
-La bitácora de programación debe contener los prompts reales y las pruebas realizadas por quien entrega el proyecto; no se inventan prompts ni resultados.
+La [bitácora de IA](./BITACORA-IA.pdf) registra los prompts verificables de esta conversación y los resultados de las pruebas. La consigna pide al menos cinco prompts: este registro contiene dos y señala que faltan tres por agregar desde los historiales reales antes de entregar. No se inventan prompts ni resultados.
